@@ -4,4 +4,4 @@
 ## Teams
 
 - Root
-- The18Suns
+- [The18Suns](https://github.com/suns-18)
